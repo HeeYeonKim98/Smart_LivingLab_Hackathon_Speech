@@ -1,1 +1,1 @@
-# -Smart_LivingLab_Hackathon-Speech
+# Smart_LivingLab_Hackathon-Speech
