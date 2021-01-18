@@ -27,7 +27,7 @@ ___
 ___
 ### :zero: 특징 추출 단계 수행
 
-+ MFCC(.mfc) 특징을 추출하여 파일로 저장합니다.
++ MFCC(.mfc) 특징(39차원)을 추출하여 파일로 저장합니다.
 + 해당 단계 수행은 ./utils/feature_extractor.py 에서 수행됩니다.
 
 - run. py
