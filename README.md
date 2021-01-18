@@ -42,6 +42,7 @@ python run.py --step 0
 + 해당 단계 수행은 ./utils/train.py 에서 수행됩니다. 
 + 훈련/검증 데이터는 ./utils/dataloader.py 를 통해 얻을 수 있으며 수정하여 사용하시면 됩니다.
 + 모델은 반드시 __전체 모델__ 을 저장하십시오.
++ Metrics는 반드시 __'accuracy'__ 를 사용하십시오.
 
 - run.py
 
